@@ -1,0 +1,34 @@
+html {
+    background-color: #222;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+body {
+    height: 100vh;
+}
+
+h1 {
+    color: white;
+    font-family: 'lato';
+    font-size: 72px;
+    text-align: center;
+    padding-top: 30vh;
+    text-shadow: 0 0 10px rgba(255, 255, 255, .35);
+}
+
+.block-img {
+    display: flex;
+    justify-content: center
+}
+
+img {
+    width: 300px;
+}
+
+#particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
